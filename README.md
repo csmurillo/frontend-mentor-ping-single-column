@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://csmurillo.github.io/frontend-mentor-ping-single-column](https://csmurillo.github.io/frontend-mentor-ping-single-column)
+- Live Site URL: [https://frontend-mentor-ping-single-column.vercel.app/](https://frontend-mentor-ping-single-column.vercel.app/)
 
 ## My process
 
